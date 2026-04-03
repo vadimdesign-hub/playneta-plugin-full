@@ -2,6 +2,8 @@
 
 Набор утилит для дизайнеров: выравнивание секций, управление приоритетами, поиск похожих объектов и другие инструменты для ускорения работы в Figma.
 
+<img width="2374" height="1624" alt="Frame 10698003" src="https://github.com/user-attachments/assets/80fc2a25-7b48-4d4d-96ed-9ab61b97d6c3" />
+
 ---
 
 ## Как установить
@@ -57,7 +59,7 @@
 ### 📖 FAQ
 Открывает встроенную справку по всем командам плагина прямо внутри Figma.
 
----
+<img width="2274" height="1608" alt="Frame 10698005" src="https://github.com/user-attachments/assets/701b010b-78a9-4b29-b4a3-e42c0aaeecba" />
 
 ## Особенности
 
